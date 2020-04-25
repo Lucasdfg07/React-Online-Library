@@ -1,0 +1,31 @@
+* {
+ margin: 0;
+ padding: 0;
+ outline: 0;
+ box-sizing: border-box;
+}
+ 
+html, body, #root {
+ height: 100%;
+}
+ 
+body {
+ font: 400 14px Roboto, sans-serif;
+ background: #F0f0f5;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+}
+ 
+input, button, textarea {
+ font: 400 18px Roboto, sans-serif;
+}
+ 
+button {
+ cursor: pointer;
+}
+ 
+.container {
+ max-width: 1020px;
+ margin: 64px auto;
+ padding: 0 20px;
+}
