@@ -1,6 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Online Library
+This application is an online library made in an OneBitCode academic project to improve React skills and using a few of Redux.
 
-## Available Scripts
+
+## Technology 
+
+Here are the technologies used in this project.
+
+* React JS
+* Rredux
+
+## Services Used
+
+* Github
+
+## Getting started
 
 In the project directory, you can run:
 
@@ -37,32 +50,41 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+### `yarn json-server server.json -p 3333`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Seti this command at your terminal to up your Json response application. This app is prepared to use an API, but it isn't used in this project, so it has to use the Json response previously done to app's consume.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Let's see some pages of the project and the features.
 
-### Code Splitting
+### Opening the app, you can see the home page showing the books according of the Json response.
+![Home Page](https://github.com/Lucasdfg07/React-Online-Library/blob/master/public/images/initial_page.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### You can also see the cart and the books that you add.
+![Cart Page](https://github.com/Lucasdfg07/React-Online-Library/blob/master/public/images/cart.png)
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Features
 
-### Making a Progressive Web App
+The main features of the application are:
+ - See books and improve the books ammount do buy.
+ - See your cart with the books that you add.
+ - See the total price.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
+## Links
+  - Repository: https://github.com/Lucasdfg07/React-Online-Library
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
+      to improve the security and privacy of this project!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+  ## Versioning
 
-### Deployment
+  1.0.0.0
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
+  ## Authors
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+  * **Lucas Siqueira Fernandes** 
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
